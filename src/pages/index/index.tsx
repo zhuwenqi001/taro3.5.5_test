@@ -5,6 +5,6 @@ import "./index.less";
 
 export default function Index(props) {
   return (
-    <WebView src='https://seal-api.bytedance.net/fe/fallback/no_internal?href=loading&env=' />
+    <WebView src='https://www.baidu.com' />
   );
 }
