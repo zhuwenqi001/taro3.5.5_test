@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "myApp",
+  "appid": "test",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
